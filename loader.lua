@@ -9,7 +9,7 @@ pcall(function()
 -- KONFIGURASI
 -- =============================================
 local KEY_GITHUB_URL = "https://raw.githubusercontent.com/xbravll/Key-Loader/refs/heads/main/keys.json"
-local MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/USERNAME/REPO/main/main.lua"
+local MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/xbravll/LENIRRA_POWER/refs/heads/main/AnimLNR.lua"
 
 -- Format keys.json di GitHub:
 -- {
@@ -490,3 +490,4 @@ FITUR:
 ============================
 
 ]]
+
