@@ -8,7 +8,7 @@ pcall(function()
 -- =============================================
 -- KONFIGURASI
 -- =============================================
-local KEY_GITHUB_URL = "https://raw.githubusercontent.com/USERNAME/REPO/main/keys.json"
+local KEY_GITHUB_URL = "https://raw.githubusercontent.com/xbravll/Key-Loader/refs/heads/main/keys.json"
 local MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/USERNAME/REPO/main/main.lua"
 
 -- Format keys.json di GitHub:
@@ -488,4 +488,5 @@ FITUR:
 ✓ Error handling
 
 ============================
+
 ]]
